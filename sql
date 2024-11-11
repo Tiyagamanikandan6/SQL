@@ -1,3 +1,5 @@
+plz readme for output 
+
 1)
 A)SELECT EName, Sal FROM Employee WHERE Sal >= 2200;
 
